@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brianhmathison
 - 👀 I’m interested in cancer research, science, and toxicology
 - 🌱 I’m currently learning a lot of new technologies
-- 💞️ I’m looking to collaborate on compsite transcription factor decoys
+- 💞️ I’m looking to collaborate on composite transcription factor decoys
 - 📫 How to reach me ... GITHUB for now
 
 BRIAN H MATHISON PHD 
